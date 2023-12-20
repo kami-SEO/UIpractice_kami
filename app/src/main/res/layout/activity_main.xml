@@ -15,7 +15,7 @@
     <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="아이디 안녕하세요ㅇㅇ"/>
+    android:text="아이디 안녕하세요ㅇㅇㅇ"/>
 
         <TextView
             android:layout_width="wrap_content"
